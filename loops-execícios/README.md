@@ -6,5 +6,6 @@ de repetição (for)
 ## 📖 Conteúdo
 - exercicio_pessoas.py -> Usando o f string (formatação de textos com for)
 - exercicio_letras.py -> Verificando letras no meu loop
+- exercicio-lista-doutores -> Utilizando o append na lista doutores (adicionando elementos)
 
 
